@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustBoolean
 - 👀 I’m interested in Math and Computer Science
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular, .NET and Automation Testing
 - 💞️ I’m looking to collaborate on none at the moment
 - 📫 How to reach me Email: abrahamassembly@gmail.com
 
